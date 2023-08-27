@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my profile, I'm RedEye 👋
+I'm self-taught full-stack developer and software engineer, Computer engineer
 
-<!--
-**YcR5/YcR5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact:
+<br>
+<a href="https://www.instagram.com/ldle/">
+  <img alt="Instagram" width="24px" src="https://raw.githubusercontent.com/YcR5/YcR5/master/assets/instagram.png" />
+</a>
+<a href="https://discord.gg/yt">
+  <img alt="Discord" width="24px" src="https://raw.githubusercontent.com/YcR5/YcR5/master/assets/discord.png" />
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages/stack:**  
+- PHP
+- JavaScript
+- Golang
+- Python
