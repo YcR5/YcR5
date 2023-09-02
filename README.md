@@ -1,5 +1,5 @@
 ## Welcome to my profile, I'm RedEye 👋
-I'm self-taught full-stack developer and software engineer, Computer engineer
+I'm Computer engineer, full-stack developer and software engineer
 
 Contact:
 <br>
