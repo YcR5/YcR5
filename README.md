@@ -6,7 +6,7 @@ Contact:
 <a href="https://www.instagram.com/ldle/">
   <img alt="Instagram" width="24px" src="https://raw.githubusercontent.com/YcR5/YcR5/master/assets/instagram.png" />
 </a>
-<a href="https://discord.gg/yt">
+<a href="https://discord.gg/claim">
   <img alt="Discord" width="24px" src="https://raw.githubusercontent.com/YcR5/YcR5/master/assets/discord.png" />
 </a>
 
